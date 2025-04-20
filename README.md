@@ -41,8 +41,10 @@ Please support the real Geometry Dash by getting it from:
 ---
 
 ## Download
+ONLY ANDROID 8 ABOVE IS SUPPORTED.
+ANDROID 7 BELOW IS NOT-SUPPORTED.
 
-**[Click here to download](https://github.com/ItzZyann/gd-2.21-beta/releases/download/v1.1-beta/gd-2.21-beta.apk)**  
+**[Click here to download](https://github.com/ItzZyann/gd-2.21-beta/releases/download/v1.1-beta.2/gd-2.21-beta.2.apk)**  
 
 ---
 
